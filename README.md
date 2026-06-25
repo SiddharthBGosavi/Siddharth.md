@@ -129,7 +129,7 @@ Designed an end-to-end Python pipeline for data cleaning, transformation, and vi
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthBGosavi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 > ⚠️ Replace `YOUR_USERNAME` in the three image URLs above with your actual GitHub username. These cards are powered by community-hosted services (`github-readme-stats` and `github-readme-streak-stats`) — if a card doesn't render, give it a minute (cold start) or refresh; for guaranteed uptime later, both projects support self-hosting via GitHub Actions.
