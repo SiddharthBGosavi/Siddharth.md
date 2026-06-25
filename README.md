@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Siddharth Gosavi 👋</h1>
+<h1 align="center">Hi, I'm Siddharth Gosavi👋</h1>
 <h3 align="center">Data Analyst | Bridging Data Engineering, Analytics & AI</h3>
 
 <p align="center">
@@ -124,8 +124,8 @@ Designed an end-to-end Python pipeline for data cleaning, transformation, and vi
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SiddharthBGosavi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiddharthBGosavi&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
